@@ -1,7 +1,8 @@
+![](https://mistral.ai/images/news/announcing-mistral.png)
 ## Mistral AI Walkthrough
 Here's an example of how to test Mixtral AI using Python. This example demonstrates how to interact with the Mixtral API to generate text. Ensure you have the necessary API credentials and dependencies before running the code.
 
-# Mixtral AI Python Example
+# Mixtral AI Python Example 
 
 This repository provides an example of how to use Mixtral AI's API to generate text using Python. Follow the instructions below to set up and run the example code.
 
